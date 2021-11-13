@@ -2,6 +2,7 @@
   <div class="home">
     <h1>What Can I Deploy to Static Apps?</h1>
     <div class="card-grid">
+      <span>hellohellohellohellohellohellohellohellohellohellohellohellohellohellohello hellohellohellohellohellohellohellohello</span>
       <SmallCard
         v-bind:key="project.id"
         v-bind:title="project.name"
